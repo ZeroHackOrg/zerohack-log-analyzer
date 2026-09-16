@@ -41,14 +41,7 @@ stats and heuristic attack flags over a file or stdin.
 
 ## Quick Start
 
-```bash
-# From the monorepo root
-git clone https://github.com/ZeroHackOrg/zerohack-geek-tools.git
-cd zerohack-geek-tools && npm install
-npm run geek:log -- analyze access.log --top 10
-```
-
-**Standalone:**
+### Standalone
 
 ```bash
 git clone https://github.com/ZeroHackOrg/zerohack-log-analyzer.git
